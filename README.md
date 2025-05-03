@@ -1,4 +1,4 @@
-# Bank_Customer_Segmentation & Product Recommendation
+# Bank Customer Segmentation & Product Recommendation
 
 ##  Overview
 This project focuses on segmenting bank customers using unsupervised learning techniques and recommending personalized bank products or investment plans based on customer profiles.
